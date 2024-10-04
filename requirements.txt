@@ -1,0 +1,4 @@
+pillow
+pyheif
+inquirer
+tqdm
